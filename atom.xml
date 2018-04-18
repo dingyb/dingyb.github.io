@@ -5,9 +5,9 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://dingyb.github.io/blog/"/>
   <updated>2018-04-18T10:46:42.836Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://dingyb.github.io/blog/</id>
   
   <author>
     <name>dingyuanbo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/18/hello-world/"/>
-    <id>http://yoursite.com/2018/04/18/hello-world/</id>
+    <link href="http://dingyb.github.io/blog/2018/04/18/hello-world/"/>
+    <id>http://dingyb.github.io/blog/2018/04/18/hello-world/</id>
     <published>2018-04-18T10:46:42.836Z</published>
     <updated>2018-04-18T10:46:42.836Z</updated>
     
